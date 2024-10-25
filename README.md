@@ -1,5 +1,6 @@
 <div align="center">
-	<img src="hihere.webp" alt="Hi there">
+	<img src="roundog.webp" alt="Hello^">
 	<br>
 	<br>
+	<img src="partdog.webp" alt="Let's dive into some coding">
 </div>
